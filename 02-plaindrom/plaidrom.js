@@ -8,4 +8,3 @@ function isPalindrome(str) {
     
   console.log(isPalindrome("headphone"));  
   console.log(isPalindrome("racecar"));
-  
