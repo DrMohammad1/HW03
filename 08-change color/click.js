@@ -10,4 +10,5 @@ function changeBoxColor() {
   const b = Math.floor(Math.random() * 256);  
 
   this.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;  
+ 
 }
